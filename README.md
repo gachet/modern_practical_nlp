@@ -3,7 +3,7 @@
 This course will cover how you can use NLP to do stuff.
 
 We envision four videos.
-1. Overview and Converting Text to Vectors (this one)
+1. Overview and Converting Text to Vectors (already released)
   * For finding similar documents
   * "I have this document or text, what others talk about the same stuff?"
 2. Learning with Vectors and Classification
