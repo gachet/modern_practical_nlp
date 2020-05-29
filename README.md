@@ -59,5 +59,4 @@ All code will be available on GitHub here https://github.com/jmugan/modern_pract
 * [DeepGrammar: Grammar Checking Using Deep Learning](https://www.linkedin.com/pulse/deep-grammar-checking-using-learning-jonathan-mugan)
 * [Deep Learning for Natural Language Processing](https://www.linkedin.com/pulse/deep-learning-natural-language-processing-jonathan-mugan)
 * [What Deep Learning Really Means](https://www.linkedin.com/pulse/20141114065942-42285562-what-deep-learning-really-means)
-Also
 * My O'Reilly course on NLP: [Natural Language Text Processing with Python](http://shop.oreilly.com/product/0636920061007.do)
