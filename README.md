@@ -12,7 +12,7 @@ There will be four videos
   * "I need to put these documents into buckets."
   * [Video](https://www.youtube.com/watch?v=fb4L_1QuIo0&fbclid)
 3. Visualizing
-  * For seeing what document vectors look like in 3D space.
+  * For seeing what document vectors look like in 3D space
   * "I need to quickly see what looks similar to what."
 4. Sequence Generation and Extracting Pieces of Information from Text
   * For translation and document summarization, and for pulling out sentences and documents that talk about specific things
