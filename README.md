@@ -33,8 +33,8 @@ All code will be available on GitHub here https://github.com/jmugan/modern_pract
 * Work at [DeUmbra](https://deumbra.com/) where we build AI for the DoD
   * We also work in healthcare, which I can talk about. A future video (not in this series) will cover how we use graph neural networks to identify who is at risk for opioid overdose
   * Hands-on technical advisor at our sister company [Pulselight](https://www.pulselight.com/)
-* Wrote *The Curiosity Cycle: Preparing Your Child for the Ongoing Technological Explosion* http://www.jonathanmugan.com/CuriosityCycle/
-* Advisor at [KUNGFU.AI](https://www.kungfu.ai/) 
+* Wrote [*The Curiosity Cycle: Preparing Your Child for the Ongoing Technological Explosion*](http://www.jonathanmugan.com/CuriosityCycle/)
+* Advisor at [KUNGFU.AI](https://www.kungfu.ai/)
 * Also do independent consulting work
 * Can find me here jonathanwilliammugan@gmail.com or on Twitter at [@jmugan](https://twitter.com/jmugan)
 
