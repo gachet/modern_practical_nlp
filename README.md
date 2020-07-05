@@ -2,19 +2,21 @@
 
 This course will cover how you can use NLP to do stuff.
 
-We envision four videos.
+There will be four videos
 1. Overview and Converting Text to Vectors (already released)
   * For finding similar documents
   * "I have this document or text, what others talk about the same stuff?"
+  * [Video] (https://www.youtube.com/watch?v=aiHB7Ap9wF4)
 2. Learning with Vectors and Classification
   * For classifying documents
   * "I need to put these documents into buckets."
-3. Sequence Generation
-  * For translation and document summarization
-  * "I need to create quick summaries of these documents, maybe in Urdu."
-4. Extracting Pieces of Information from Text
-  * For pulling out sentences and documents that talk about specific things
-  * "I need every mention of a street address or business in Garland, Texas."
+  * [Video] (https://www.youtube.com/watch?v=fb4L_1QuIo0&fbclid)
+3. Visualizing
+  * For seeing what document vectors look like in 3D space.
+  * "I need to quickly see what looks similar to what."
+4. Sequence Generation and Extracting Pieces of Information from Text
+  * For translation and document summarization, and for pulling out sentences and documents that talk about specific things
+  * "I need every mention of a street address or business in Garland, Texas; and I need each document translated to Urdu."
 
 
 # Additional Details
