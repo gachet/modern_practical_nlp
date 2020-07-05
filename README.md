@@ -6,11 +6,11 @@ There will be four videos
 1. Overview and Converting Text to Vectors (already released)
   * For finding similar documents
   * "I have this document or text, what others talk about the same stuff?"
-  * [Video] (https://www.youtube.com/watch?v=aiHB7Ap9wF4)
+  * [Video](https://www.youtube.com/watch?v=aiHB7Ap9wF4)
 2. Learning with Vectors and Classification
   * For classifying documents
   * "I need to put these documents into buckets."
-  * [Video] (https://www.youtube.com/watch?v=fb4L_1QuIo0&fbclid)
+  * [Video](https://www.youtube.com/watch?v=fb4L_1QuIo0&fbclid)
 3. Visualizing
   * For seeing what document vectors look like in 3D space.
   * "I need to quickly see what looks similar to what."
